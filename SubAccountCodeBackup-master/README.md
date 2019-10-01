@@ -33,7 +33,7 @@ Add the rest of the .css and .js files, and update as required.
 
 # Contributors
 
-* Anirudh Mana.
+* Anirudh Mana
 * Jack Dunstan
 
 # How to
